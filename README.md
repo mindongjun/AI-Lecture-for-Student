@@ -1,1 +1,1 @@
-# whimoon_AiLecture
+# AI Lecture for Student
